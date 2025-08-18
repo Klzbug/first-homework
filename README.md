@@ -1,2 +1,2 @@
 # first-homework
-<h1>Primeiro projeto com GitHub<h1>
+<h4>Primeiro projeto com GitHub<h4>
